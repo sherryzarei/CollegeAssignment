@@ -1,1 +1,1 @@
-# CollegeAssignment
+# MyCollegeAssignment
